@@ -5,7 +5,7 @@ import json
 
 def get_weather(city):
     # API endpoint and your OpenWeatherMap API key
-    api_key = "52b626783e39d9ca3ac8d00cd8e1f81f"
+    api_key = "API_KEY"
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
 
     try:
