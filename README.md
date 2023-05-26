@@ -2,6 +2,7 @@ Weather Forecast Tool
 
 This command-line tool allows you to retrieve and display the current weather forecast for a given city. Powered by the OpenWeatherMap API, it fetches real-time weather data and presents key information such as temperature, weather description, and humidity.
 
+_**REMEMBER TO SIGNUP IN OPENWEATHERMAP API AND GET YOUR API KEY**_
 Features:
 - Seamless integration with OpenWeatherMap API for accurate weather data retrieval.
 - Simple and intuitive command-line interface.
